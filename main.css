@@ -1,0 +1,5 @@
+@media (min-width: 600px) {
+    article {
+        border: 1px solid #F3F4F6 !important;
+    }
+}
